@@ -1,12 +1,12 @@
 @Formula
-A# .NET
 A#
+A# .NET
 A+
 A++
 A-0 System
 ABAP
-ABC ALGOL
 ABC
+ABC ALGOL
 ABLE
 ABSET
 ABSYS
@@ -73,9 +73,9 @@ Boo
 Boomerang
 Bourne shell
 BuildProfessional
+C
 C Shell
 C#
-C
 C++
 C--
 C/AL
@@ -155,8 +155,8 @@ DinkC
 Dog
 Draco
 Dylan
-E#
 E
+E#
 EASYTRIEVE PLUS
 ECMAScript
 EGL
@@ -182,8 +182,8 @@ Euler
 Euphoria
 EusLisp Robot Programming Language
 Executable UML
-F#
 F
+F#
 F-Script
 FAUST
 FFP
@@ -230,8 +230,8 @@ Game Maker Language
 GameMonkey Script
 Genie
 Gibiane
-Go!
 Go
+Go!
 Godiva
 Goo
 Gosu
@@ -269,8 +269,8 @@ Idris
 Inform
 Io
 Ioke
-J#
 J
+J#
 J++
 JADE
 JAL
@@ -279,8 +279,8 @@ JCL
 JEAN
 JOSS
 JOVIAL
-JScript .NET
 JScript
+JScript .NET
 Jako
 Janus
 Java
@@ -301,8 +301,8 @@ Karel
 Karel++
 Kojo
 Kotlin
-L# .NET
 L
+L# .NET
 LANSA
 LC-3
 LIL
@@ -621,8 +621,8 @@ VHDL
 VSXu
 Vala
 Verilog
-Visual Basic .NET
 Visual Basic
+Visual Basic .NET
 Visual C#
 Visual DataFlex
 Visual DialogScript
